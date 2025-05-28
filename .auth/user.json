@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "XSRF-TOKEN",
+      "value": "eyJpdiI6IkJha2FNK2hrb0F6Tm5NQ04raXNnK2c9PSIsInZhbHVlIjoieFFrUnJ4c0l4YXdyYVlSd1hGMTUzSldIcXMwZFB1UW5tSFpPdHAwWStLUEN2VlR1ZVh6Q1FHMDl0WUdUMGR4ejVXM0Y2ekFGUDdYN1RlT09kckpZZ252SXJiajlGVXlZNWI2TWtDZ2xWM2g1aHllQi8vME9qaHdXN01zL0duYU0iLCJtYWMiOiI4ZDAzZGNhYzIyNDRlODdmOTEwZGUxZTBlNzM1M2M2ZmYwZDMyOWM4NDdjNjIwMTJjMjE4YjE5YjcwNDQ5MzlkIiwidGFnIjoiIn0%3D",
+      "domain": "pre.alacarte.ae",
+      "path": "/",
+      "expires": 1748440524.784911,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "a_la_carte_booking_session",
+      "value": "eyJpdiI6Ik5TT2s5dXR5M3E5VEVvWG04Rk9sbkE9PSIsInZhbHVlIjoiRzF2N21PbTlxdXkvZ0NRY3hWTUYzTFh6aFhnTUcxWGZVOXNTeDZ4KzhSVUhOSk90M25uL0F4OHlra0F3RXM3TU9WSTFYQlAwYnpZbjRuZ2hzOTNuUE83cmtkWGJCbUcxNUEzNHBMeWt1NDMweWF5cE55SkNRRjhkTjhMNmZCdlQiLCJtYWMiOiJiZThmZDRkYWUwODEwN2Y2ZTkxYzExZGNhNjc3NGVmMDE0ZTc4NmJmMWUxZDNjMGY5NjY0Mzk0NzkxZmE1NGViIiwidGFnIjoiIn0%3D",
+      "domain": "pre.alacarte.ae",
+      "path": "/",
+      "expires": 1748440524.785017,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
